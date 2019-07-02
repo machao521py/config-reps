@@ -26,6 +26,7 @@ spring:
     port: 6379
 #    password: x19961010
 
+
   rabbitmq:
     host: 127.0.0.1
     port: 5672
